@@ -1,4 +1,4 @@
-package com.Gyu.gmusic
+package com.gyu.gmusic
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

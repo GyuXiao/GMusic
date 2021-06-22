@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GMusic</string>
+    <string name="exit_tip">Press Back button again to exit.</string>
 </resources>

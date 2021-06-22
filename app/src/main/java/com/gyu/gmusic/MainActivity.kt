@@ -1,4 +1,4 @@
-package com.Gyu.gmusic
+package com.gyu.gmusic
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
